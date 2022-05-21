@@ -1,6 +1,4 @@
-<a href="https://github.com/anonyindian">
-<H1 align="center">Veer Rana</H1>
- </a>
+<H1 align="center"><a href="https://github.com/anonyindian">Veer Rana</a></H1>
 
 <p align="center">
     <a href="https://twitter.com/TheVeerRana">
